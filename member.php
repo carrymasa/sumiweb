@@ -6,62 +6,62 @@
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/y_sumi" target="_blank"><img class="sumi"></a>
-          角康之</p>
+          角 康之</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/BrianePVSamson" target="_blank"><img class="briane"></a>
-          BrianePVSamson</p>
+          Briane P V Samson</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/akane22xx" target="_blank"><img class="okuno"></a>
-          奥野茜</p>
+          奥野 茜</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/tenjoufire"><img class="tujimoto"></a>
-          辻本海成</p>
+          辻本 海成</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/rrrzapk" target="_blank"><img class="fujikura" loop></a>
-          藤倉稜</p>
+          藤倉 稜</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/syokupan99" target="_blank"><img class="pan"></a>
-          鈴木諒輔</p>
+          鈴木 諒輔</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/c_takasaki" target="_blank"><img class="takasaki"></a>
-          高﨑昌宏</p>
+          高﨑 昌宏</p>
         </div>
 
         <div class="col-sm-6">
         <p><a href="https://twitter.com/A_Tada_" target="_blank"><img class="tada"></a>
-          多田采佳</p>
+          多田 采佳</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/MRKMKYMS39" target="_blank"><img class="kiyomasa"></a>
-          村上聖将</p>
+          村上 聖将</p>
         </div>
 
         <div class="col-sm-6">
         <p><a href="https://twitter.com/kazuma_0129" target="_blank"><img class="kazuma"></a>
-          大橋一真</p>
+          大橋 一真</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/S_ran_o" target="_blank"><img class="maeno"></a>
-          前野匠星</p>
+          前野 匠星</p>
         </div>
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/b1016196" target="_blank"><img class="shiohara"></a>
-          塩原光貴</p>
+          塩原 光貴</p>
         </div>
 
       </div>

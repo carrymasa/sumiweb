@@ -5,13 +5,13 @@
     <div class="collapse navbar-collapse" id="navbar-content">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a href="#top" class="nav-link">すみけん</a>
+          <a href="#top" class="nav-link">角康之研究室とは</a>
         </li>
         <li class="nav-item">
-          <a href="#member" class="nav-link">めんばー</a>
+          <a href="#member" class="nav-link">メンバー</a>
         </li>
         <li class="nav-item">
-          <a href="#space" class="nav-link">しんろぉ</a>
+          <a href="#space" class="nav-link">進路</a>
         </li>
         <li class="nav-item">
           <a href="research.php" class="nav-link"target="_blank" >研究紹介</a>
