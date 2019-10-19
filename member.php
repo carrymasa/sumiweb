@@ -38,6 +38,8 @@
         <div class="col-sm-6">
           <p><a href="https://twitter.com/MRKMKYMS39" target="_blank"><img class="kiyomasa"></a>
           unnko</p>
+
+
         </div>
         <div class="col-sm-6">
         <p><a href="https://twitter.com/kazuma_0129" target="_blank"><img class="kazuma"></a>

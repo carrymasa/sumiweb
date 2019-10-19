@@ -2,3 +2,6 @@ section{
   margin-top: -60px;
   padding-top: 60px;
 }
+.example {
+  white-space: pre;
+}
