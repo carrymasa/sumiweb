@@ -16,6 +16,7 @@
       </li>
       <li>オープンラボ</li>
       <li>中間報告書/中間発表</li>
+      <li>新入生歓迎会</li>
       <li>インタラクション執筆</li>
       <li>最終報告書/最終発表</li>
       <li>学会発表（<a href="https://www.interaction-ipsj.org/2020/" target="_blank">インタラクション2020</a>）</li>
