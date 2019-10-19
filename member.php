@@ -4,12 +4,12 @@
     <div class="container-fluid">
       <div class="row">
 
-        <div class="col-sm-6">
+        <div class="col-sm-6 col-xs-6">
           <p><a href="https://twitter.com/y_sumi" target="_blank"><img class="sumi"></a>
           角 康之</p>
         </div>
 
-        <div class="col-sm-6">
+        <div class="col-sm-6 col-xs-6">
           <p><a href="https://twitter.com/BrianePVSamson" target="_blank"><img class="briane"></a>
           Briane Paul V Samson</p>
         </div>
