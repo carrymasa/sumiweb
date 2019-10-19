@@ -1,0 +1,181 @@
+.kiyomasa{
+  background-image: url("../img/twitter/kiyomasa_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.kiyomasa:hover {
+  background-image: url("../img/kiyomasa.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.tujimoto{
+  background-image: url("../img/twitter/tujimoto_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.tujimoto:hover {
+  background-image: url("../img/tenjourfire.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.kazuma{
+  background-image: url("../img/twitter/ohashi_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.kazuma:hover {
+  background-image: url("../img/kazuma.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.fujikura{
+  background-image: url("../img/twitter/fujikura_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.fujikura:hover {
+  background-image: url("../img/fujikura.gif");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.tada{
+  background-image: url("../img/twitter/tada_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.tada:hover {
+  background-image: url("../img/tada.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.pan{
+  background-image: url("../img/twitter/pan_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.pan:hover {
+  background-image: url("../img/pan.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.maeno{
+  background-image: url("../img/twitter/maeno_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.maeno:hover {
+  background-image: url("../img/maeno.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.shiohara{
+  background-image: url("../img/twitter/koki_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.shiohara:hover {
+  background-image: url("../img/shiohara.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.okuno{
+  background-image: url("../img/twitter/okuno_tw.jpeg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.okuno:hover {
+  background-image: url("../img/okuno.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.briane{
+  background-image: url("../img/twitter/briane_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.briane:hover {
+  background-image: url("../img/briane.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.sumi{
+  background-image: url("../img/twitter/sumi_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.sumi:hover {
+  background-image: url("../img/sumi.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
+.takasaki{
+  background-image: url("../img/twitter/takasaki_tw.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+  border: 2px solid black;
+}
+.takasaki:hover {
+  background-image: url("../img/takasaki.jpg");
+  width:  180px;
+  height: 180px;
+  border-radius: 50%;
+  background-position: left top;
+}
