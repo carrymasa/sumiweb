@@ -3,56 +3,67 @@
     <h1>めんばぁ~</h1>
     <div class="container-fluid">
       <div class="row">
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/y_sumi" target="_blank"><img class="sumi"></a>
           角康之</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/BrianePVSamson" target="_blank"><img class="briane"></a>
           BrianePVSamson</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/akane22xx" target="_blank"><img class="okuno"></a>
-          KAME</p>
+          奥野茜</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/tenjoufire"><img class="tujimoto"></a>
-          tenjoufire</p>
+          辻本海成</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/rrrzapk" target="_blank"><img class="fujikura" loop></a>
-          r-fujikura</p>
+          藤倉稜</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/syokupan99" target="_blank"><img class="pan"></a>
-          食パン</p>
+          鈴木諒輔</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/c_takasaki" target="_blank"><img class="takasaki"></a>
-          カレーさん</p>
+          高﨑昌宏</p>
         </div>
+
         <div class="col-sm-6">
         <p><a href="https://twitter.com/A_Tada_" target="_blank"><img class="tada"></a>
-          a-tada</p>
+          多田采佳</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/MRKMKYMS39" target="_blank"><img class="kiyomasa"></a>
-          unnko</p>
-
-
+          村上聖将</p>
         </div>
+
         <div class="col-sm-6">
         <p><a href="https://twitter.com/kazuma_0129" target="_blank"><img class="kazuma"></a>
-          クラウチング</p>
+          大橋一真</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/S_ran_o" target="_blank"><img class="maeno"></a>
-          前野の手法</p>
+          前野匠星</p>
         </div>
+
         <div class="col-sm-6">
           <p><a href="https://twitter.com/b1016196" target="_blank"><img class="shiohara"></a>
-          塩原</p>
+          塩原光貴</p>
         </div>
+
       </div>
     </div>
   </div>
