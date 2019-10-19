@@ -1,6 +1,6 @@
 <body>
   <div class="py-4">
-    <h1>めんばぁ~</h1>
+    <h1>メンバー</h1>
     <div class="container-fluid">
       <div class="row">
 
@@ -11,7 +11,7 @@
 
         <div class="col-sm-6">
           <p><a href="https://twitter.com/BrianePVSamson" target="_blank"><img class="briane"></a>
-          Briane P V Samson</p>
+          Briane Paul V Samson</p>
         </div>
 
         <div class="col-sm-6">
