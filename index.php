@@ -19,30 +19,32 @@
   <?php
   require_once ("header.php");
   ?>
-  <div class="container">
-    <div id="wrap">
-      <section id="top">
-        <?php
-        require_once ("top.php");
-        ?>
-      </section>
-      <section id="member">
-        <?php
-        require_once ("member.php");
-        ?>
-      </section>
-      <section id="space">
-        <?php
-        require_once ("space.php");
-        ?>
-      </section>
+  <div class="py-4">
+    <div class="container">
+      <div id="wrap">
+        <section id="top">
+          <?php
+          require_once ("top.php");
+          ?>
+        </section>
+        <section id="member">
+          <?php
+          require_once ("member.php");
+          ?>
+        </section>
+        <section id="space">
+          <?php
+          require_once ("space.php");
+          ?>
+        </section>
+      </div>
     </div>
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <!-- <script src="js/jquery.min.js"> -->
 
-  </script>
-  <script src="js/index.js"></script>
-  <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+</script>
+<script src="js/index.js"></script>
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
