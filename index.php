@@ -32,9 +32,14 @@
           require_once ("member.php");
           ?>
         </section>
-        <section id="space">
+        <section id="course">
           <?php
-          require_once ("space.php");
+          require_once ("course.php");
+          ?>
+        </section>
+        <section id="event">
+          <?php
+          require_once ("event.php");
           ?>
         </section>
       </div>
