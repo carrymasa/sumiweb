@@ -11,7 +11,7 @@
           <a href="#member" class="nav-link">めんばー</a>
         </li>
         <li class="nav-item">
-          <a href="#space" class="nav-link">すぺーす</a>
+          <a href="#space" class="nav-link">しんろぉ</a>
         </li>
         <li class="nav-item">
           <a href="research.php" class="nav-link"target="_blank" >研究紹介</a>
