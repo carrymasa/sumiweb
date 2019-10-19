@@ -10,12 +10,12 @@
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 </head>
 <body>
-  <div id="loader-bg">
+  <!-- <div id="loader-bg">
     <div id="loader">
       <img src="img/sumi.gif" width="80" height="80">
       <h1>これは角研です。</h1>
     </div>
-  </div>
+  </div> -->
   <?php
   require_once ("header.php");
   ?>
