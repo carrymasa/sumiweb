@@ -12,5 +12,8 @@
 }
 @media screen and (min-width:768px){
   /*　画面サイズが768px以上の場合読み込む　*/
-
+}
+.h1{
+  margin: 0px;
+  padding: 20px;
 }
