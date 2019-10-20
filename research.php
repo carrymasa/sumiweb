@@ -18,8 +18,8 @@
           <h2><b>博士３年：Briane Paul V Samson</b></h2>
           <h3>「Incorporating Conversations in Car Navigation Voice Guidance to Support Instructerd Actions」</h3>
           <p class="example">
-            ナビゲーションアプリケーションは、常にドライバーが指示に従うものとして設計されています。<br>
-            Wizard of Oz 実験を実施し、2人のエージェント間の会話の方向性を示しました。 <br>
+            ナビゲーションアプリケーションは、常にドライバーが指示に従うものとして設計されています。
+            Wizard of Oz 実験を実施し、2人のエージェント間の会話の方向性を示しました。
             シミュレーション環境では、ドライバーには3種類の提案があります。
             慣れ親しんだルート、最短ルート、新しいルートです。</p>
           </div>
