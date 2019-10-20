@@ -11,42 +11,38 @@
 </head>
 <body>
   <!-- <div id="loader-bg">
-    <div id="loader">
-      <img src="img/sumi.gif" width="80" height="80">
-      <h1>これは角研です。</h1>
-    </div>
-  </div> -->
-  <?php
-  require_once ("header.php");
-  ?>
-  <div class="py-4">
-    <div class="container">
-      <div id="wrap">
-        <section id="top">
-          <?php
-          require_once ("top.php");
-          ?>
-        </section>
-        <section id="member">
-          <?php
-          require_once ("member.php");
-          ?>
-        </section>
-        <section id="course">
-          <?php
-          require_once ("course.php");
-          ?>
-        </section>
-        <section id="event">
-          <?php
-          require_once ("event.php");
-          ?>
-        </section>
-      </div>
-    </div>
-  </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <!-- <script src="js/jquery.min.js"> -->
+  <div id="loader">
+  <img src="img/sumi.gif" width="80" height="80">
+  <h1>これは角研です。</h1>
+</div>
+</div> -->
+<?php
+require_once ("header.php");
+?>
+<div id="wrap">
+  <section id="top">
+    <?php
+    require_once ("top.php");
+    ?>
+  </section>
+  <section id="member">
+    <?php
+    require_once ("member.php");
+    ?>
+  </section>
+  <section id="course">
+    <?php
+    require_once ("course.php");
+    ?>
+  </section>
+  <section id="event">
+    <?php
+    require_once ("event.php");
+    ?>
+  </section>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!-- <script src="js/jquery.min.js"> -->
 
 </script>
 <script src="js/index.js"></script>

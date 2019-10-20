@@ -5,3 +5,7 @@ section{
 .example {
   white-space: pre;
 }
+.h1{
+  border-left: solid 20px darkblue;
+  padding-left: 10px;
+}

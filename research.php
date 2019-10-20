@@ -10,10 +10,10 @@
 <body>
 
   <div class="py-4">
+    <h1>角康之研究室の研究紹介 -2019-</h1>
     <div class="container-fluid">
-      <h1>角康之研究室の研究紹介 -2019-</h1>
       <div class="row">
-        <div class="col-6">
+        <div class="col-sm-6 col-md-6">
           <h2>博士３年：Briane Paul V Samson</h2>
           <h3>「Incorporating Conversations in Car Navigation Voice Guidance to Support Instructerd Actions」</h3>
           <p class="example">
@@ -22,14 +22,14 @@
             シミュレーション環境では、ドライバーには3種類の提案があります。
             慣れ親しんだルート、最短ルート、新しいルートです。</p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/b_samson.png" width="500px"  class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <h2>博士１年：奥野 茜</h2>
             <h3>「一人称ライフログ映像からの顔検出に基づいた社会活動計測と行動変容」</h3>
             <p class="example">
@@ -40,13 +40,13 @@
               減を試みる。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/a-okuno.png" width="500px"  class="img-fluid" >
           </div>
         </div>
         <br>
         <div class="row">
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <h2>修士２年：辻本 海成</h2>
             <h3>「非言語情報に着目したチュータリングの質評価」</h3>
             <p class="example">
@@ -54,14 +54,14 @@
               現在は、チュータリングの質を表したスコアと非言語情報（発話・作業・頭部方向）の関連性を分析しています。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/tsujimoto.png" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <h2>修士２年：藤倉 稜</h2>
             <h3>「発話が空間コンテキストに埋め込まれることによる体験共有システム」</h3>
             <p class="example">
@@ -70,14 +70,14 @@
               発話を共有することで，新たな発見や知識の獲得が促されることが期待される．
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/r_fujikura.png" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：大橋 一真</h2>
+          <div class="col-sm-6 col-md-6">
+            <h2>学部４年：大橋 一真</h2>
             <h3>「会話参加支援システム：会話バルーン」</h3>
             <p class="example">
               パーティー会場等では、複数人が話題を共有し、会話グループを形成する。
@@ -85,15 +85,15 @@
               そこで本研究では、会話グループの認識及び話題の可視化を行うシステムを提案する。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/ohashi.png" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：塩原 光貴</h2>
+          <div class="col-sm-6 col-md-6">
+            <h2>学部４年：塩原 光貴</h2>
             <h3>「Taxi Dash Button: ワンプッシュボタンのみのタクシー乗合いサービス」</h3>
             <p class="example">
               Taxi Dash Buttonはタクシーの相乗りを支援するwebアプリケーション。
@@ -102,30 +102,30 @@
               このアプリを通して利用者のコミュニケーション支援行い、その効果を分析することが目的。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/k_shiohara-1.jpg" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：鈴木 諒輔</h2>
+          <div class="col-sm-6 col-md-6">
+            <h2>学部４年：鈴木 諒輔</h2>
             <h3>「折り返し翻訳を用いた文章推敲支援」</h3>
             <p class="example">
               本研究では，折り返し翻訳が曖昧性を排除するべき情報伝達型テキスト（論文，技術文書，マニュアル）の文章推敲に効果があるか検証する．折り返し翻訳によって，文章の正確性や妥当性を可視化する．
               論理的・構造的な文章を作成するために必要な文章推敲を支援する仕組みを構築する．
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/r_suzuki.png" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：多田 采佳</h2>
+          <div class="col-sm-6 col-md-6">
+            <h2>学部４年：多田 采佳</h2>
             <h3>「会話音声から社会ネットワークの可視化」</h3>
 
             <p class="example">
@@ -134,15 +134,15 @@
               ある時間の流れの中で誰とどれくらい関わっていたのかを知る手がかりになる。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/a_tada-1.jpg" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：高﨑 昌宏</h2>
+          <div class="col-sm-6 col-md-6">
+            <h2>学部４年：高﨑 昌宏</h2>
             <h3>「アノテーションバイビューイング」</h3>
             <p class="example">
               発話した人の顔や手の動きなどに対して、ある程度閲覧者の視線は動く。
@@ -151,15 +151,15 @@
               これにより会話分析への支援が期待される。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/c_takasaki-1.jpg" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6">
-            <h2>学部４：前野 匠星</h2>
+          <div class="col-sm-6 col-md-7">
+            <h2>学部４年：前野 匠星</h2>
             <h3>「単語距離空間の可視化による文化相違の顕在化」</h3>
             <p class="example">
               国や文化によって、使用される言語にも違いがみられる。
@@ -168,15 +168,15 @@
               国と言語に関する研究を行う研究者の手助けや気づきを与える。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-6">
             <img src="img2/n_maeno.jpg" width="500px" class="img-fluid" >
           </div>
         </div>
         <br>
 
         <div class="row">
-          <div class="col-6 col-sm-6">
-            <h2>学部４：村上 聖将</h2>
+          <div class="col-sm-6 col-md-7">
+            <h2>学部４年：村上 聖将</h2>
             <h3>「コマ配置による視線誘導がマンガの読みに与える影響の分析」</h3>
             <p class="example">
               マンガのコマ配置が読み手の視線を誘導していることを確認するために、
@@ -184,7 +184,7 @@
               また、視線移動の違いによって読み手が受ける印象の変化を分析する。
             </p>
           </div>
-          <div class="col-6">
+          <div class="col-sm-6 col-md-5">
             <img src="img2/k-murakami_openlab_v2.png" width="800px" class="img-fluid" >
           </div>
         </div>
