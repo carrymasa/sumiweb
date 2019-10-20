@@ -20,7 +20,6 @@
             <li>角康之研究室</li>
           </ul>
         </div>
-        </div>
       </div>
     </div>
   </div>
