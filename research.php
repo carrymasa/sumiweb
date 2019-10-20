@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, shrink-to-fit=no">
   <link rel="shortcut icon" href="img/sumi.ico">
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/research.css">
   <title>研究紹介</title>
 </head>
 <body>
@@ -30,7 +31,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>博士１年：奥野 茜</h2>
+            <h2><b>博士１年：奥野 茜</b></h2>
             <h3>「一人称ライフログ映像からの顔検出に基づいた社会活動計測と行動変容」</h3>
             <p class="example">
               長期的な一人称ライフログ映像に映り込んだ対面者の顔の数を数えることで、
@@ -47,7 +48,7 @@
         <br>
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>修士２年：辻本 海成</h2>
+            <h2><b>修士２年：辻本 海成</b></h2>
             <h3>「非言語情報に着目したチュータリングの質評価」</h3>
             <p class="example">
               1対1で行われるピア・チュータリングを非言語情報の観点から評価することを目指します。
@@ -62,7 +63,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>修士２年：藤倉 稜</h2>
+            <h2><b>修士２年：藤倉 稜</b></h2>
             <h3>「発話が空間コンテキストに埋め込まれることによる体験共有システム」</h3>
             <p class="example">
               人間が行う発話に着目し、それを空間コンテキスト(位置・頭部方向・手の動き)に埋め込んで音声として記録する。
@@ -77,7 +78,7 @@
         <br>
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：大橋 一真</h2>
+            <h2><b>学部４年：大橋 一真</b></h2>
             <h3>「会話参加支援システム：会話バルーン」</h3>
             <p class="example">
               パーティー会場等では、複数人が話題を共有し、会話グループを形成する。
@@ -93,7 +94,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：塩原 光貴</h2>
+            <h2><b>学部４年：塩原 光貴</b></h2>
             <h3>「Taxi Dash Button: ワンプッシュボタンのみのタクシー乗合いサービス」</h3>
             <p class="example">
               Taxi Dash Buttonはタクシーの相乗りを支援するwebアプリケーション。
@@ -110,7 +111,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：鈴木 諒輔</h2>
+            <h2><b>学部４年：鈴木 諒輔</b></h2>
             <h3>「折り返し翻訳を用いた文章推敲支援」</h3>
             <p class="example">
               本研究では、折り返し翻訳が曖昧性を排除するべき情報伝達型テキスト(論文、技術文書、マニュアル)の文章推敲に効果があるか検証する．
@@ -126,7 +127,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：多田 采佳</h2>
+            <h2><b>学部４年：多田 采佳</b></h2>
             <h3>「会話音声から社会ネットワークの可視化」</h3>
 
             <p class="example">
@@ -143,7 +144,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：高﨑 昌宏</h2>
+            <h2><b>学部４年：高﨑 昌宏</b></h2>
             <h3>「アノテーションバイビューイング」</h3>
             <p class="example">
               発話した人の顔や手の動きなどに対して、ある程度閲覧者の視線は動く。
@@ -160,7 +161,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：前野 匠星</h2>
+            <h2><b>学部４年：前野 匠星</b></h2>
             <h3>「単語距離空間の可視化による文化相違の顕在化」</h3>
             <p class="example">
               国や文化によって、使用される言語にも違いがみられる。
@@ -177,7 +178,7 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-6">
-            <h2>学部４年：村上 聖将</h2>
+            <h2><b>学部４年：村上 聖将</b></h2>
             <h3>「コマ配置による視線誘導がマンガの読みに与える影響の分析」</h3>
             <p class="example">
               マンガのコマ配置が読み手の視線を誘導していることを確認するために、
