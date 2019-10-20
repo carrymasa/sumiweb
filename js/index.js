@@ -15,19 +15,3 @@ $(window).load(function () { //全ての読み込みが完了したら実行
 $(function(){
   setTimeout('stopload()',10000);
 });
-
-function stopload(){
-  $('#wrap').css('display','block');
-  $('#loader-bg').delay(900).fadeOut(800);
-  $('#loader').delay(600).fadeOut(300);
-}
-
-var ctlKey = false;
-document.addEventListener('keydown', function(e){
-  if(e.ctrlKey) ctlKey = true;
-  if((e.which || e.keyCode) == 82 && ctlKey) e.preventDefault();
-  if((e.which || e.keyCode) == 116) e.preventDefault();
-});
-document.addEventListener('keyup', function(e){
-  if(e.ctrlKey) ctlKey = false;
-});
