@@ -51,16 +51,16 @@
                   <img src="img3/hanami.jpg" class="img-fluid">
                 </div>
                 <div class="carousel-item">
-                  <img src="img3/chi_study1.jpg" class="img-fluid">
-                </div>
-                <div class="carousel-item">
-                  <img src="img3/chi_study2.jpg" class="img-fluid">
-                </div>
-                <div class="carousel-item">
                   <img src="img3/mocap1.jpg" class="img-fluid">
                 </div>
                 <div class="carousel-item">
                   <img src="img3/mocap2.jpg" class="img-fluid">
+                </div>
+                <div class="carousel-item">
+                  <img src="img3/chi_study1.jpg" class="img-fluid">
+                </div>
+                <div class="carousel-item">
+                  <img src="img3/chi_study2.jpg" class="img-fluid">
                 </div>
                 <div class="carousel-item">
                   <img src="img3/maguro.jpg" class="img-fluid">
