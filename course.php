@@ -1,7 +1,7 @@
 <body>
   <div class="py-4">
-    <h1>進路</h1>
     <div class="container">
+      <h1>進路 -2019-</h1>
       <div class="row">
         <div class="col-md-6">
           <h2>内定先</h2>
@@ -14,11 +14,12 @@
             <li>株式会社シーズ・ラボ</li>
           </ul>
         </div>
-        <div class="col-md-6">
+        <div class="col">
           <h2>進学</h2>
           <ul>
             <li>角康之研究室</li>
           </ul>
+        </div>
         </div>
       </div>
     </div>
