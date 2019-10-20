@@ -12,7 +12,7 @@
         <li>非言語インタラクションの観点から会話分析</li>
       </ul>
       <p>様々な分野に関して取り組んでいます</p>
-      <p>contact：sumi@fun.ac.jp</p>
+      <p>連絡先：sumi@fun.ac.jp</p>
     </div>
   </div>
 </body>
