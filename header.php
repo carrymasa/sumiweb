@@ -11,10 +11,7 @@
           <a href="#member" class="nav-link">メンバー</a>
         </li>
         <li class="nav-item">
-          <a href="#course" class="nav-link">進路</a>
-        </li>
-        <li class="nav-item">
-          <a href="#event" class="nav-link">イベント</a>
+          <a href="#other" class="nav-link">その他</a>
         </li>
         <li class="nav-item">
           <a href="research.php" class="nav-link"target="_blank" >研究紹介</a>

@@ -39,7 +39,6 @@
                 <li data-target="#main_visual" data-slide-to="6"></li>
                 <li data-target="#main_visual" data-slide-to="7"></li>
                 <li data-target="#main_visual" data-slide-to="8"></li>
-                <li data-target="#main_visual" data-slide-to="9"></li>
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -47,6 +46,9 @@
                 </div>
                 <div class="carousel-item">
                   <img src="img3/comunity.jpg" class="img-fluid">
+                </div>
+                <div class="carousel-item">
+                  <img src="img3/hanami.jpg" class="img-fluid">
                 </div>
                 <div class="carousel-item">
                   <img src="img3/chi_study1.jpg" class="img-fluid">
