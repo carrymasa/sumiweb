@@ -1,8 +1,7 @@
 <body>
   <div class="py-4">
     <div class="container">
-      <h1>イベント</h1>
-      <p>今年のイベント一覧</p>
+      <h2>2019年一覧</h2>
       <ul>
         <li>学会参加（<a href="https://www.interaction-ipsj.org/2019/" target="_blank">インタラクション2019</a>）</li>
         <li>勉強会</li>

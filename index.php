@@ -1,3 +1,8 @@
+<?php
+if($_SERVER['REQUEST_METHOD']==='POST'){
+  header('Location:https://sumiweb.herokuapp.com/');
+}
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -33,10 +38,6 @@ require_once ("header.php");
   <section id="course">
     <?php
     require_once ("course.php");
-    ?>
-  </section>
-  <section id="event">
-    <?php
     require_once ("event.php");
     ?>
   </section>
