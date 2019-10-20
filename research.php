@@ -15,7 +15,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-6 col-md-6">
-          <h2>博士３年：Briane Paul V Samson</h2>
+          <h2><b>博士３年：Briane Paul V Samson</b></h2>
           <h3>「Incorporating Conversations in Car Navigation Voice Guidance to Support Instructerd Actions」</h3>
           <p class="example">
             ナビゲーションアプリケーションは、常にドライバーが指示に従うものとして設計されています。<br>
