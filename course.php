@@ -6,12 +6,13 @@
         <div class="col-md-6">
           <h2>内定先 -2019- </h2>
           <ul>
-            <li>野村総合研究所</li>
-            <li>日本マイクロソフト</li>
-            <li>Cyber Agent</li>
-            <li>グリー株式会社</li>
-            <li>株式会社ウェディングパーク</li>
-            <li>株式会社シーズ・ラボ</li>
+            <li><a href="https://www.nri.com/jp">野村総合研究所</a></li>
+            <li><a href="https://www.microsoft.com/ja-jp">日本マイクロソフト</a></li>
+            <li><a href="https://www.cyberagent.co.jp/">Cyber Agent</a></li>
+            <li><a href="http://corp.gree.net/jp/ja/"></a>グリー株式会社</li>
+            <li><a href="https://www.weddingpark.co.jp/"></a>株式会社ウェディングパーク</li>
+            <li><a href="https://www.cslab.co.jp/"></a>株式会社シーズ・ラボ</li>
+            <li>etc...</li>
           </ul>
         </div>
         <div class="col">
