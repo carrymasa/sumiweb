@@ -9,9 +9,9 @@
             <li><a href="https://www.nri.com/jp">野村総合研究所</a></li>
             <li><a href="https://www.microsoft.com/ja-jp">日本マイクロソフト</a></li>
             <li><a href="https://www.cyberagent.co.jp/">Cyber Agent</a></li>
-            <li><a href="http://corp.gree.net/jp/ja/"></a>グリー株式会社</li>
-            <li><a href="https://www.weddingpark.co.jp/"></a>株式会社ウェディングパーク</li>
-            <li><a href="https://www.cslab.co.jp/"></a>株式会社シーズ・ラボ</li>
+            <li><a href="http://corp.gree.net/jp/ja/">グリー株式会社</a></li>
+            <li><a href="https://www.weddingpark.co.jp/">株式会社ウェディングパーク</a></li>
+            <li><a href="https://www.cslab.co.jp/">株式会社シーズ・ラボ</a></li>
             <li>etc...</li>
           </ul>
         </div>
